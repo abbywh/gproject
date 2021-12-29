@@ -44,6 +44,6 @@ const IndexPage = () => {
       <p>Love, Abby</p>
     </Container>
   )
-}
+  }
 
 export default IndexPage
